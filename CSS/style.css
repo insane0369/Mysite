@@ -1,0 +1,141 @@
+.top{
+  background-color:#d4f3ef;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+  font-weight:600;
+}
+h2{
+  font-family:'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+}
+.middle{
+  margin: 100px auto;
+  background-color: #def4f0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.bottom{
+  background-color: #66BFBF;
+  padding: 50px 0 50px;
+}
+.pro{
+  text-decoration:underline;
+  font-weight: normal;
+  line-height: 2px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 110px;
+  bottom: 300px;
+  opacity:0.7;
+
+
+}
+.top-cloud{
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  opacity:0.7;
+}
+.harshit{
+  font-weight: bolder;
+}
+a{
+  color: #11999E;
+  font-family:'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+hr{
+  border: 15px dotted #63b7af;
+  border-bottom:none;
+  width: 8%;
+  margin: 100px auto;
+
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+p{
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill1-img{
+  float: left;
+  margin-right: 30px;
+}
+.skill2-img{
+  float: right;
+  margin-left: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.footer-link1:hover{
+  font-size: 125%;
+}
+.footer-link2:hover{
+  font-size: 125%;
+}
+.footer-link3:hover{
+  font-size: 125%;
+}
+.mountain{
+  opacity:.8;
+  bottom: 0;
+}
+
+.BTN {
+	box-shadow: -4px 4px 5px -2px #30b5c7;
+	background:linear-gradient(to bottom, #11cdd4 5%, #2980b9 100%);
+	background-color:#11cdd4;
+	border-radius:11px;
+	border:2px solid #6ec4e6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 24px;
+	text-decoration:none;
+	text-shadow:-1px 3px 2px #1c2c36;
+  margin-bottom: 40px;
+}
+.BTN:hover {
+	background:linear-gradient(to bottom, #2980b9 5%, #11cdd4 100%);
+	background-color:#2980b9;
+}
+.BTN:active {
+	position:relative;
+	top:1px;
+}
